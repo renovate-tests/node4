@@ -1,0 +1,9 @@
+{
+  "engines": {
+    "node": "12"
+  },
+  "renovate": {
+    "extends": ["config:base"],
+    "prHourlyLimit": 0
+  }
+}
